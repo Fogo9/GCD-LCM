@@ -1,14 +1,14 @@
 # **GREATEST COMMON DIVISOR - LEAST COMMON MULTIPLE**
 
-# Information
+## INFORMATION
 
 * **Program to find greatest common divisor and least common multiple.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * The variables **n1**, **n2**, **i**, **a**, **b**, **k**, **gcd** and **lcm** are defined with int.
 
@@ -16,9 +16,7 @@
 
 * Using the while loop, first the greatest common divisor is calculated, then the least common multiple is calculated.
 
-<br />
-
-# Codes
+## CODES
 
 ```Java
 
@@ -102,13 +100,13 @@
 
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/GCD-LCM.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
